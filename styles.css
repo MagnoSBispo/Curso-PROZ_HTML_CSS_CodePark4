@@ -1,0 +1,74 @@
+/* p, section, aside, footer, head {
+  font-size: 18px;  
+
+  background-color: ;
+  line-height: ;
+  letter-spacing: 1px;
+  text-align: center;
+  color: blue;
+
+  padding:px;
+  margin: 100px;
+  
+}  */
+
+/* head, h1, h2, h3, h4 {
+    
+ font-size: 25px;
+ background-color: dodgerblue;
+ text-align: center;
+ color: blue
+} */ 
+
+/* mudando a cor da página */
+html {
+background-color: powderblue
+} 
+
+/* Separando o corpo */
+
+body {
+width: 600px;  
+margin: 0 auto;
+background-color: 
+
+padding: 0 20px 20px 20px;
+/* border: 1px solid black;  */
+}
+
+
+/* Posicionando e estilizando o título da página principal */
+h1, h2 {
+font-size: 30px;
+margin: 0;
+padding: 20px 0;
+color: darkgreen;    
+text-shadow: 6px 4px 2px yellow; 
+}
+
+h3, h4 {
+    
+font-size: 20px;
+/* background-color: dodgerblue;    */
+text-align: center; 
+color: blue;
+/* text-shadow: 6px 4px 2px yellow;  */
+}
+
+/* Centralizando a imagem */
+
+p, footer, aside {
+font-size: 17px;
+color: blue;
+}
+
+img {
+display: inline-block;
+margin: 0 auto; 
+
+}
+
+
+
+
+
