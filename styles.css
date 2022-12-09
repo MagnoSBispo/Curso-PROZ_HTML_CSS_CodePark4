@@ -1,26 +1,4 @@
-/* p, section, aside, footer, head {
-  font-size: 18px;  
 
-  background-color: ;
-  line-height: ;
-  letter-spacing: 1px;
-  text-align: center;
-  color: blue;
-
-  padding:px;
-  margin: 100px;
-  
-}  */
-
-/* head, h1, h2, h3, h4 {
-    
- font-size: 25px;
- background-color: dodgerblue;
- text-align: center;
- color: blue
-} */ 
-
-/* mudando a cor da página */
 html {
 background-color: powderblue
 } 
@@ -30,10 +8,8 @@ background-color: powderblue
 body {
 width: 600px;  
 margin: 0 auto;
-background-color: 
-
+background-color: 0 ; 
 padding: 0 20px 20px 20px;
-/* border: 1px solid black;  */
 }
 
 
